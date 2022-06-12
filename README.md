@@ -68,7 +68,7 @@ python detect.py --weights ./exp/weights/best.pt --source ../download_video.mp4 
 전체 Data Pipeline의 결과는 아래의 path에서 확인할 수 있습니다.
 
 ```
-runs/detect/exp
-             |--download_video.mp4
-             |--output.json
+yolov5/runs/detect/exp
+                    |--download_video.mp4
+                    |--output.json
 ```
