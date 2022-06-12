@@ -1,4 +1,4 @@
-# LOL Champine Object_Detection
+# LOL Champine Object Detection
 LOL 영상의 미니맵에서 챔피언들을 Object Detection 해서 json을 반환하도록 합니다.
 
 **데이터 파이프라인은 아래와 같이 구성합니다.**
